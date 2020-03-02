@@ -2,3 +2,4 @@
 automat komentarzy
 
 jestem robotnikiem
+mieszkam pod śmietnikiem
